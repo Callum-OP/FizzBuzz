@@ -1,3 +1,7 @@
 # FizzBuzz
 Doing the FizzBuzz coding challenge in several programming languages.
-Currently Python and Java.
+There is a version in Python, Java and C#.
+
+Used Visual Studio code for Python.
+Used IntelliJ for Java.
+Used Visual Studio for C#.
